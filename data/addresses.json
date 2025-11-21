@@ -1,0 +1,20 @@
+{
+  "incidents": [
+    {
+      "id": "eth-incident-001",
+      "name": "ETH Security Incident",
+      "blockchain": "eth",
+      "addresses": [
+        {
+          "address": "0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045",
+          "blockchain": "eth",
+          "label": "Primary Address"
+        }
+      ],
+      "transaction_ids": [],
+      "description": "Security incident involving address 0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045 on Ethereum",
+      "screen_for_sanctions": [],
+      "network_depth": 2
+    }
+  ]
+}
